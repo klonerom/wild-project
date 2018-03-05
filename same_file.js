@@ -1,5 +1,1 @@
-Salut,
-
-Voici un commentaire.
-
-Au revoir.
+Commentaire Link dans same_file.js
